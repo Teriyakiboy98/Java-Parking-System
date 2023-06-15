@@ -13,6 +13,6 @@ It can Charge and assign parking spaces to vehicles entering the parking lot asw
 ![Alt text](./ps2.png "Interface")
 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Teriyakiboy98/Java-Parking-System)
+![GitHub last commit](https://img.shields.io/github/last-commit/skyrunner360/Java-Parking-System)
 
 It is designed for the parking manager to be controlled by but administrator of the parking system can also control this in order to seek any flaw by the manager.
